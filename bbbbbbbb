@@ -1,0 +1,23 @@
+<div id="Page">
+        <div id="Banner">
+            <div id="Container" style="border:groove; border-color:greenyellow;">
+                <div id="Head">
+                    <div id="Head_L">
+                        <div id="Leaf_top">
+                            <img src="assets/rastaman.png">
+                                <div id="Leaf_bot">
+    </div>
+                                    <div id="Head_R">
+                                        <div id="Logo">
+                                            <video  loop autoplay="autoplay" muted controls="hidden" id="vid" width="600px" height="162px">
+                                                <source src="assets/Jamal's Weed.mp4" type="video/mp4">
+                                                <source src="assets/Jamal's Weed.mp4" type="video/ogg">                
+                                            </video>
+                                        </div>
+                                    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
